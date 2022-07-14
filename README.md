@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumanthnaik113
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...c++
-- 💞️ I’m looking to collaborate on ...freelaning work
+- 💞️ I’m looking to collaborate on ...freelancing work
 - 📫 How to reach me ...
 
 <!---
